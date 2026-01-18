@@ -1,0 +1,6 @@
+ul :hover {
+    color: #ffe44a;
+}
+ul li :hover {
+    color: coral;
+}
